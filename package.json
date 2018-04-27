@@ -1,0 +1,22 @@
+{
+  "name": "novo_block",
+  "version": "1.0.0",
+  "description": "A simple Blockchain created in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewheel17/novo_block.git"
+  },
+  "author": "Max Wheeler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewheel17/novo_block/issues"
+  },
+  "homepage": "https://github.com/ewheel17/novo_block#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
